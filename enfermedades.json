@@ -1,0 +1,99 @@
+[
+  {
+    "nombre": "Gripe",
+    "sintomas": {
+      "fiebre": 2,
+      "tos": 2,
+      "dolor de cabeza": 1,
+      "congestión nasal": 1,
+      "dolor muscular": 3
+    }
+  },
+  {
+    "nombre": "Migraña",
+    "sintomas": {
+      "dolor de cabeza": 3,
+      "náuseas": 2,
+      "sensibilidad a la luz": 3,
+      "visión borrosa": 2
+    }
+  },
+  {
+    "nombre": "Diabetes",
+    "sintomas": {
+      "sed excesiva": 3,
+      "orina frecuente": 3,
+      "fatiga": 2,
+      "visión borrosa": 2
+    }
+  },
+  {
+    "nombre": "Amigdalitis",
+    "sintomas": {
+      "dolor de garganta": 3,
+      "fiebre": 2,
+      "dificultad para tragar": 3,
+      "inflamación de las amígdalas": 3
+    }
+  },
+  {
+    "nombre": "Covid-19",
+    "sintomas": {
+      "fiebre": 3,
+      "tos": 2,
+      "dolor de cabeza": 1,
+      "fatiga": 2,
+      "pérdida de olfato": 4
+    }
+  },
+  {
+    "nombre": "Asma",
+    "sintomas": {
+      "dificultad para respirar": 4,
+      "silvido respiratorio": 3,
+      "opresión en el pecho": 3,
+      "tos": 2,
+      "fatiga": 1
+    }
+  },
+  {
+    "nombre": "Neumonía",
+    "sintomas": {
+      "fiebre": 3,
+      "escalofríos": 3,
+      "dificultad para respirar": 4,
+      "tos con flema": 3,
+      "dolor en el pecho": 3
+    }
+  },
+  {
+    "nombre": "Alergia",
+    "sintomas": {
+      "estornudos": 2,
+      "congestión nasal": 2,
+      "picazón en los ojos": 3,
+      "erupción cutánea": 3,
+      "ojos llorosos": 2
+    }
+  },
+  {
+    "nombre": "Apéndicitis",
+    "sintomas": {
+      "dolor abdominal": 4,
+      "náuseas": 3,
+      "vómitos": 3,
+      "fiebre": 2,
+      "pérdida de apetito": 3
+    }
+  },
+  {
+    "nombre": "Cistitis (infección de orina)",
+    "sintomas": {
+      "dolor al orinar": 4,
+      "orina frecuente": 3,
+      "sangre en la orina": 4,
+      "dolor en el abdomen bajo": 3,
+      "fiebre": 2
+    }
+  }
+]
