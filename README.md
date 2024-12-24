@@ -11,4 +11,4 @@ Este proyecto es un programa en Python que ayuda a diagnosticar enfermedades bas
 
 1. Clona este repositorio:
 git clone https://github.com/tu_usuario/diagnosticador-enfermedades.git cd diagnosticador-enfermedades
-2. Ejecuta el programa:
+2. Ejecuta el programa
